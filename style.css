@@ -6,6 +6,7 @@ h1{
     background: royalblue
 
 }
+
 ul{
     color: white;
 }
@@ -13,30 +14,41 @@ h2{
     color: white;
 }
 div p{
-    color:white;
+    color:rgb(255, 255, 255);
 }
 body{
     background: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .pokemon_names {
     color:white;
 }
 #bulbasaur_container {
-    border: groove lightgreen 25px;
+    border: solid white 5px;
+    border-radius: 3px;
     background: lightgreen;
+    margin: 5px;
 }
-#bulbsaur_contain p{
+#pokemon_container p{
     font: size 10px;;
-    font-family: sans-serif;
 }
 
 #charmander_container{
     border: solid firebrick 25px;
-    background: firebrick;
-    border: solid white 2px;
+   border-radius: 3px;
+    background: rgb(230, 47, 15);
+    border: solid white 5px;
 }
 
 #squirtle_container{
-    border:groove blue 25px;
-    background: blue;
+    border:groove white 5px;
+    border-radius: 3px;
+    background: rgb(56, 127, 209);
+}
+.pokemon_images{
+    width: 150px;
+    margin-left: 500px;
+}
+footer{
+    color: white;
 }
