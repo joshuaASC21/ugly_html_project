@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    border: solid royalblue 20px;
+    color:gold;
+    padding-right: royalblue  50px;
+    background: royalblue
+
+}
+ul{
+    color: white;
+}
+h2{
+    color: white;
+}
+div p{
+    color:white;
+}
+body{
+    background: black;
+}
+.pokemon_names {
+    color:white;
+}
+#bulbasaur_container {
+    border: groove lightgreen 25px;
+    background: lightgreen;
+}
+#bulbsaur_contain p{
+    font: size 10px;;
+    font-family: sans-serif;
+}
+
+#charmander_container{
+    border: solid firebrick 25px;
+    background: firebrick;
+    border: solid white 2px;
+}
+
+#squirtle_container{
+    border:groove blue 25px;
+    background: blue;
+}
